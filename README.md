@@ -1,4 +1,4 @@
-# webpack-react-synchronous-refresh
+#webpack+react热更新
 webpack+react热更新
 之前在开发中一直使用gulp同步刷新，简单方便：），后来在学习react过程中接触到webpack的热更新，开始转移到webpack平台；
 
